@@ -11,4 +11,4 @@ The project also includes very basic Graphic User Interface
 to make it a little more engaging. It also uses OOP to have multiple
 players.
 
-Have fun!
+Just run Main.java and Have fun!
